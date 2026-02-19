@@ -41,3 +41,22 @@ This project allows users to manage student records with file storage support.
 2. Download the project
 3. Run the file:
 
+   
+---
+
+## 💡 Concepts Used
+
+- Functions
+- Conditional Statements
+- Loops
+- Dictionaries
+- File Handling
+- JSON Data Storage
+
+---
+
+## 📌 Author
+
+Mahnoor Fatima
+
+
