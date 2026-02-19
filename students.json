@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "ali",
+        "marks": 350.0,
+        "percentage": 70.0,
+        "grade": "A"
+    },
+    "2": {
+        "name": "sana",
+        "marks": 400.0,
+        "percentage": 80.0,
+        "grade": "A+"
+    },
+    "3": {
+        "name": "noor",
+        "marks": 500.0,
+        "percentage": 100.0,
+        "grade": "A+"
+    },
+    "4": {
+        "name": "mubeen",
+        "marks": 50.0,
+        "percentage": 10.0,
+        "grade": "Fail"
+    },
+    "5": {
+        "name": "minal",
+        "marks": 0.0,
+        "percentage": 0.0,
+        "grade": "Fail"
+    }
+}
